@@ -17,8 +17,6 @@ env/
 
 # Ignore media files (add them manually if required)
 *.mp4
-*.jpg
-*.png
 *.csv
 
 # Ignore log files and unnecessary system files

@@ -4,7 +4,7 @@ from email.message import EmailMessage
 # SENDER_EMAIL = "svm892073@gmail.com"
 # APP_PASSWORD = "xjpbqxdhiywmtuqp"
 
-SENDER_EMAIL = "saurbhmoynak.skn.comp@gmail.com"
+SENDER_EMAIL = "abc@gmail.com"
 APP_PASSWORD = "iopiouidhfscwavc"
 
 def send_email(subject, recipients):
@@ -27,8 +27,8 @@ def detect_suspicious_activity():
     return True  # Replace this with your actual detection logic
 
 def main():
-    # recipients = ["saurbhmoynak012@gmail.com"]  # Add more email addresses as needed
-    recipients = ["saurbhmoynak012@gmail.com", "bhavnapathare285@gmail.com", "patilchetan946@gmail.com"]
+    # recipients = ["abc012@gmail.com"]  # Add more email addresses as needed
+    recipients = ["ab123@gmail.com", "bcd285@gmail.com", "pqr@gmail.com"]
 
     if detect_suspicious_activity():
         send_email("Suspicious Activity Detection", recipients)

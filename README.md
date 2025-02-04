@@ -74,7 +74,7 @@ CogniWatch-FinalYearProject/
 ## 🔧 Installation & Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Saurbhmoynak/CogniWatch-FinalYearProject.git
+   git clone https://github.com/Saurbhmoynak/CogniWatch-Anomaly-Detection.git
    OR
    git clone https://github.com/patilchetan946/CogniWatch.git
    cd CogniWatch-FinalYearProject

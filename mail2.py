@@ -2,8 +2,13 @@ import sqlite3
 import smtplib
 from email.message import EmailMessage
 
-SENDER_EMAIL = "svm892073@gmail.com"
-APP_PASSWORD = "xjpbqxdhiywmtuqp"
+# Step 1: Enable 2-Step Verification in Google Account
+# Step 2: Go to "App Passwords" in Google Security Settings
+# Step 3: Generate an "App Password" for Mail
+# Step 4: Copy and paste the generated password below
+
+SENDER_EMAIL = "example@gmail.com"
+APP_PASSWORD = "your-app-password-here"  # Replace with your App Password
 
 def send_email(subject, recipients):
     msg = EmailMessage()

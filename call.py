@@ -1,14 +1,19 @@
 from twilio.rest import Client
 
-# Twilio credentials
-account_sid = 'AC7a5f80ee03788801972b92f73686ee95'
-auth_token = '146039babb8a47a5ed2a128f2f517728'
-twilio_phone_number = '+12512748049'  # Include the '+' sign before the country code
+# Step 1: Sign up on Twilio and verify your phone number
+# Step 2: Go to Twilio Console (https://www.twilio.com/console)
+# Step 3: Get your Account SID and Auth Token
+# Step 4: Replace the dummy credentials below with your actual details
 
-# Recipient's mobile number
-recipient_mobile_number = '+919420574956'  # Include the '+' sign before the country code
+# Twilio credentials (Use environment variables for security)
+account_sid = 'ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'  # Replace with your Account SID
+auth_token = 'your-auth-token-here'  # Replace with your Auth Token
+twilio_phone_number = '+1234567890'  # Replace with your Twilio phone number
 
-# Initialize Twilio client
+# Recipient's mobile number (Ensure it's in international format)
+recipient_mobile_number = '+91987xxxxx10'  # Replace with the recipient's number
+
+# Step 5: Use this script to send messages via Twilio
 client = Client(account_sid, auth_token)
 
 def make_phone_call():

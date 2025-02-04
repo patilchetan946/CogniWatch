@@ -74,10 +74,8 @@ CogniWatch-FinalYearProject/
 ## 🔧 Installation & Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Saurbhmoynak/CogniWatch-FinalYearProject.git
-   OR
    git clone https://github.com/patilchetan946/CogniWatch.git
-   cd CogniWatch-FinalYearProject
+   cd CogniWatch
    ```
 
 2. **Create a virtual environment (optional but recommended)**:
@@ -107,7 +105,7 @@ CogniWatch-FinalYearProject/
 - Adjust model sensitivity for better detection accuracy.
 
 ## 📧 Contact
-For queries or contributions, reach out at: **saurbhmoynak012@gmail.com**,**patilchetan946@gamil.com**
+For queries or contributions, reach out at: **saurbhmoynak012@gmail.com**,**patilchetan946@gmail.com**
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

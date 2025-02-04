@@ -107,7 +107,7 @@ CogniWatch-FinalYearProject/
 - Adjust model sensitivity for better detection accuracy.
 
 ## 📧 Contact
-For queries or contributions, reach out at: **saurbhmoynak012@gmail.com**
+For queries or contributions, reach out at: **saurbhmoynak012@gmail.com**,**patilchetan946@gamil.com**
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

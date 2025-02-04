@@ -9,7 +9,7 @@ def main():
     from tensorflow.keras import optimizers
     import os
     from tensorflow.keras.optimizers import SGD
-    basepath="C:/Users/SAURBH MOYNAK/Desktop/CogniWatch 2"
+    basepath="C:/Users/USER NAME/Desktop/CogniWatch 2"
 
     # Initialing the CNN
     classifier = Sequential()
